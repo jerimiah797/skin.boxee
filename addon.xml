@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="skin.boxee" version="1.0.0" name="StolenBoxee" provider-name="Neuromancer">
+	<requires>
+		<import addon="xbmc.gui" version="2.11"/>
+		<import addon="script.recentlyadded" version="1.0.8"/>
+	</requires>
+	<extension  
+        point="xbmc.gui.skin" 
+        defaultresolution="720p" 
+        defaultresolutionwide="720p" 
+        defaultthemename="Textures.xbt" 
+        effectslowdown="1.00" 
+        debugging="true"/>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<minversion app="xbmc">28000</minversion>
+		<summary>Stolen from Boxee Beta</summary>
+		<description>Re-worked for XBMC Eden by Neuro. This is an easy to use skin that is also easy on the eyes. This is a snapshot of the skin circa 2010-2011. Lots of stuff under the hood is stolen from Confluence and other skins. Many thanks to the XBMC community, and to Jezz_X for the original Boxee skin! </description>
+		<disclaimer/>
+	</extension>
+</addon>

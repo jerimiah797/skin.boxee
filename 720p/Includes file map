@@ -1,0 +1,129 @@
+Includes file map
+
+includes.xml
+	<include name="Dialog_Popup_Open_Animation">
+	<include name="Dialog_Popup_Close_Animation">
+	<include name="Dialog_Popup_Animation">
+	<include name="Window_Fade_Animation">
+	<include name="Window_OpenClose_Animation">
+	<include name="dialogeffect">
+	<include name="Dialog_Popup_Background">
+	<include name="Common_Background">
+	<include name="Common_Now_Playing">
+	<include name="Common_Status">
+	<include name="Common_Keyboard_Button">
+	<include name="Search_Keyboard_Button">
+ 	<include name="Search_Keyboard_ToggleButton">
+	<include name="Search_Keyboard_Big_Button">
+	<include name="Dialog_Background">
+	<include name="Loading_Animation">
+	<include name="Bottom_Feather">
+	<include name="OSD_Progress">
+	<include name="Common_Mouse_Back">
+
+CommonViewTypes.xml
+ (empty)
+
+boxee_browse_defaults.xml
+	<include name="BrowseListsAnimation">
+	<include name="BrowseMainTitle">
+	<include name="BrowseSubTitle">
+	<include name="EpisodeCounterTitle">
+	<include name="BrowseLoadingAnimation">
+	<include name="BrowseEmptyList">
+	<include name="BrowseScrollBar">
+	<include name="BrowseListAnimation">
+	<include name="BrowseLineAnimationUnfocus">
+	<include name="BrowseThumbAnimationUnfocus">
+	<include name="BrowseThumbAnimationFocus">
+	<include name="BrowseThumbPortraitThumbUnfocus">
+	<include name="BrowseThumbPortraitThumb">
+	<include name="BrowseThumbSquareSmallThumbUnfocus">
+	<include name="BrowseThumbSquareSmallThumbUnfocusDefaultMusic">
+	<include name="BrowseThumbSquareThumbUnfocus">
+	<include name="BrowseThumbSquareThumbUnfocusOverlay">
+	<include name="BrowseThumbSquareThumbUnfocusOverlayMusic">
+	<include name="BrowseThumbSquareThumbUnfocusOverlayPhotos">
+	<include name="BrowseThumbSquareThumb">
+	<include name="BrowseThumbSquareThumbFocusOverlay">
+	<include name="BrowseThumbSquareThumbFocusOverlayMusic">
+	<include name="BrowseThumbSquareThumbUnfocusDefaultMusic">
+	<include name="BrowseThumbSquareThumbFocusDefaultMusic">
+	<include name="BrowseThumbSquareThumbUnfocusDefaultPhotos">
+	<include name="BrowseThumbSquareThumbFocusDefaultPhotos">
+	<include name="BrowseThumbSquareThumbUnfocusDefaultVideo">
+	<include name="BrowseThumbSquareThumbFocusDefaultVideo">
+	<include name="BrowseFeedLabelLineTop">
+	<include name="BrowseFeedLabelLineCenter">
+	<include name="BrowseFeedLabelLineBottom">
+	<include name="BrowseQueueLabelLineTop">
+	<include name="BrowseQueueLabelLineCenter">
+	<include name="BrowseFeedSourceImageLineBottom">
+
+boxee_browse_views.xml
+	<include name="BrowseThumbViewList"> <!--ID 50-->
+	<include name="BrowseThumbViewInfo">
+	<include name="BrowseThumbView">
+	<include name="BrowseLineViewList"> <!--ID 51-->
+	<include name="BrowseLineViewInfo">
+	<include name="BrowseLineView">
+	<include name="BrowseEpisodesView"> <!--ID 52-->
+	<include name="BrowseQueueViewList"> <!--ID 52-->
+	<include name="BrowseQueueViewInfo">
+	<include name="BrowseQueueView">
+	<include name="BrowseFeedViewList"> <!--ID 52-->
+	<include name="BrowseFeedViewInfo">
+	<include name="BrowseFeedView">
+	<include name="BrowseViewList"> <!--ID 52-->
+	<include name="BrowseViewInfo">
+	<include name="BrowseView">
+	<include name="BrowseMusicThumbView"> <!--ID 53-->
+	<include name="BrowseMusicLineView"> <!--ID 54-->
+	<include name="BrowseMusicTrackLineView"> <!--ID 59-->
+	<include name="BrowseApplicationThumbView"> <!--ID 55-->
+	<include name="BrowseApplicationLineViewList"> <!--ID 56-->
+	<include name="BrowseApplicationLineViewInfo">
+	<include name="BrowseApplicationLineView">
+	<include name="BrowseLocalLineView"> <!--ID 59-->
+	<include name="BrowsePhotosThumbView"> <!--ID 53-->
+	<include name="BrowsePhotosLineView"> <!--ID 54-->
+
+boxee_browse_menus.xml
+	<include name="BrowseLeftMenu">
+	<include name="BrowseLeftMenuBackground">
+	<include name="BrowseLeftMenuSearchAnimation">
+	<include name="BrowseLeftMenuAnimation">
+	<include name="BrowseLeftMenuTitle">
+	<include name="BrowseLeftMenuSubtitle">
+	<include name="BrowseLeftMenuText">
+	<include name="BrowseLeftMenuInfo">
+	<include name="BrowseLeftMenuFilterUp">
+	<include name="BrowseLeftMenuFilterDown">
+	<include name="BrowseLeftMenuViewUp">
+	<include name="BrowseLeftMenuViewDown">
+	<include name="BrowseLeftMenuDropDown">
+	<include name="BrowseLeftMenuToggle">
+	<include name="BrowseLeftMenuButton">
+	<include name="BrowseLeftMenuSearchButton">
+	<include name="BrowseLeftMenuSearch">
+
+defaults.xml
+	<default type="image">
+	<default type="label">
+	<default type="fadelabel">
+	<default type="button">
+	<default type="edit">
+	<default type="togglebutton">
+	<default type="listcontrol">
+	<default type="listcontrolex">
+	<default type="thumbnailpanel">
+	<default type="textbox">
+	<default type="progress">
+	<default type="spincontrol">
+	<default type="spincontrolex">
+	<default type="checkmark">
+	<default type="radiobutton">
+	<default type="selectbutton">
+	<default type="slider">
+	<default type="mover">
+	<default type="resize">
